@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EBook
+comment1.params=
+comment1.target=EBook()
+comment2.params=title\ author\ isbn\ size
+comment2.target=EBook(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=
+comment4.target=int\ calcWeight()
+comment5.params=
+comment5.target=java.lang.String\ getSizeDetails()
+numComments=6
